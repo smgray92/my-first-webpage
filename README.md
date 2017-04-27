@@ -1,5 +1,5 @@
-#_My First Webpage_
-####_Brief Description of what to expect in the class_
+# _My First Webpage_
+#### _Brief Description of what to expect in the class_
 ### By _**Sharon Gray**_
 ## Description  
 _The my-first-webpage file goes over the basic topics that will be taught in the Epicodus curriculum._
